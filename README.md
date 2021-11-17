@@ -2,21 +2,18 @@
 ![Interior Ministry page](cuba.PNG)
 
 > ### Need :
+---
+ * Enter the page of the Ministry of the Interior  
+   of Cuba and Create a File with the  
+   addresses of all the Identity Registry Offices.
 
-<center>
- Enter the page of the Ministry of the Interior
- <br/>
-  of Cuba and Create a File with the 
-  <br/>
-  addresses of all the Identity Registry Offices.
-</center>
 
-> ### website:
-<center>
- <a href="(https://www.minint.gob.cu/">www.minint.gob.cub</a>
-</center>
+> ### website:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[www.minint.gob.cub](https://www.minint.gob.cu)
+---
+
 
 > ### Library:  
+---
 
 ```python
 from selenium import webdriver
@@ -25,6 +22,6 @@ import pandas as pd
 ```
 
 > ### Important:
->Due to current social circumstances,  
+> Due to current social circumstances,  
 > the page of the Ministry of the Interior of Cuba  
->is out of service.
+> is out of service.
