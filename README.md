@@ -8,7 +8,7 @@
    addresses of all the Identity Registry Offices.
 
 
-> ### website:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[www.minint.gob.cub](https://www.minint.gob.cu)
+> ### website:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[www.minint.gob.cub](https://www.minint.gob.cu)(Out of service)
 ---
 
 
